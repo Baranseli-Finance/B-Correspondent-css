@@ -1,0 +1,7 @@
+.centre-container {
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  top: 50vh;
+  transform: translateY(-50%);
+}
