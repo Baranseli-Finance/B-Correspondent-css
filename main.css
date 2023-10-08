@@ -14,16 +14,16 @@
 }
 
 .alert-danger {
-  color: FF0000;
+  color: #FF0000;
 }
 
 .alert-warning {
-  color: FFCD00;
+  color: #FFCD00;
 }
 
 .alert-success {
-  color: 00C615;
+  color: #00C615;
 }
 .alert-info {
-  color: 00A2FF;
+  color: #00A2FF;
 }
