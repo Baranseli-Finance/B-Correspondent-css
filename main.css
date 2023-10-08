@@ -25,6 +25,13 @@ body {
   height: 100vh;
 }
 
+.user-menu {
+  position:relative;
+  top: 0;
+  height: 5vh;
+  width: 100%;
+}
+
 .centre-container {
   margin: 0 auto;
   text-align: center;
