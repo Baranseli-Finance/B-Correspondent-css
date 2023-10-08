@@ -61,3 +61,11 @@ body {
 .alert-info {
   color: #00A2FF;
 }
+
+.user-container{
+  position:absolute;
+  right: 0;
+  top: 10px;
+  margin-right: 50px;
+}
+
