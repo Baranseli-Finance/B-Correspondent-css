@@ -9,7 +9,6 @@
 /* notification  */
 
 .alert {
-  font-family: arial;
   font-size: 16px;
   outline: dashed 1px black;
 }
