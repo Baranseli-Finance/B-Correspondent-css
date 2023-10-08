@@ -71,12 +71,13 @@ body {
 
 /* avatar start  */
 
-.avatar{  overflow:hidden; float: right;  }
+.avatar { overflow:hidden; }
 
 .user-icon{
 /*   border-radius:4em; border:1px solid black; */
   height:6em; width:6em;  
-  background:none;padding:0.1em;  
+  background:none;padding:0.1em;
+  float: right;
 }
 
 .user-icon::before{
@@ -94,13 +95,14 @@ body {
   border-radius:2em 2em 0 0;
 }
 
-.font{font-size:9px}
+.font{ font-size:9px }
 
 /* avatar end  */
 
 
 .user-login {
     float: left;
+    margin-top: 20px;
 }
 
 
