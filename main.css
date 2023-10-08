@@ -5,3 +5,25 @@
   top: 50vh;
   transform: translateY(-50%);
 }
+
+/* notification  */
+
+.alert {
+  font-family: arial;
+  font-size: 24px;
+}
+
+.alert-danger {
+  color: FF0000;
+}
+
+.alert-warning {
+  color: FFCD00;
+}
+
+.alert-success {
+  color: 00C615;
+}
+.alert-info {
+  color: 00A2FF;
+}
