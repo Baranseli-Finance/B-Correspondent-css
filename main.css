@@ -69,3 +69,35 @@ body {
   margin-right: 50px;
 }
 
+/* avatar start  */
+
+.avatar{  overflow:hidden;   }
+
+.user-icon{
+/*   border-radius:4em; border:1px solid black; */
+  height:6em; width:6em;  
+  background:none;padding:0.1em;  
+}
+
+.user-icon::before{
+  content:" "; display:block;
+  height:2em; width:2em;
+  background:black;
+  position:relative; left:2em;top:0.8em;
+  border-radius:2em;
+}
+.user-icon::after{
+  content:" "; display:block;
+  height:2em;width:4em;
+  background:black;
+  position:relative; left:1em;top:1em;
+  border-radius:2em 2em 0 0;
+}
+
+.font{font-size:14px} */
+
+/* avatar end  */
+
+
+
+
