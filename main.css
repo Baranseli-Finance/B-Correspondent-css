@@ -120,5 +120,13 @@ body {
   width: 50px;
 }
 
+.workspace-menu {
+  position:absolute;
+  left: 0;
+  background-color:black;
+  height: 95vh;
+  width: 50px;
+}
+
 
 
