@@ -48,18 +48,18 @@ body {
 }
 
 .alert-danger {
-  color: #FF0000;
+  color: #ff0000;
 }
 
 .alert-warning {
-  color: #FFCD00;
+  color: #ffa500;
 }
 
 .alert-success {
-  color: #000000;
+  color: #3cb371;
 }
 .alert-info {
-  color: #00A2FF;
+  color: #0000ff;
 }
 
 .user-container{
