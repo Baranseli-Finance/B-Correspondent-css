@@ -117,7 +117,7 @@ body {
   left: 0;
   background-color:black;
   height: 5vh;
-  width: 50px;
+  width: 4vw;
 }
 
 .workspace-menu {
@@ -125,7 +125,7 @@ body {
   left: 0;
   background-color:black;
   height: 95vh;
-  width: 50px;
+  width: 4vw;
 }
 
 .ul-menu {
@@ -133,4 +133,10 @@ body {
   right: 10px;
 }
 
+.workspace-body {
+  position: absolute;
+  left: 50px;
+  height: 95vh;
+  width: 95vw;
+}
 
