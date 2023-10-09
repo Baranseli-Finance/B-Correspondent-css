@@ -110,6 +110,7 @@ body {
   top: 50px;
   right: 30px;
   height: 100px;
+  z-index: 10;
 }
 
 .black-square {
