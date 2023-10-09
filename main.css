@@ -128,5 +128,9 @@ body {
   width: 50px;
 }
 
+.ul-menu {
+  position: absolute;
+  right: 10px;
+}
 
 
