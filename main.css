@@ -147,8 +147,8 @@ input[type=button], input[type=submit], input[type=reset] {
   cursor: pointer;
 }
 
-.user-menu input:hover{
+input:hover{
   background-color: #000000;
-  color: azure
+  color: #ffff
 }
 
