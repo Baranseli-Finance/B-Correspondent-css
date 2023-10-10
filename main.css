@@ -142,3 +142,14 @@ body {
   width: 95vw;
 }
 
+input[type=button], input[type=submit], input[type=reset] {
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.user-menu input:hover{
+  background-color: #000000;
+  color: azure
+}
+
