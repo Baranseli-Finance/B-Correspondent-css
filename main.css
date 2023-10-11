@@ -152,8 +152,10 @@ input[type=submit]:hover{
   color: #ffff
 }
 
-.timeline-travel-button:hover {
+.timeline-travel-button-active:hover {
     cursor:pointer;
 }
 
-
+.timeline-travel-button-blocked:hover {
+    cursor:not-allowed;
+}
