@@ -170,7 +170,12 @@ input[type=submit]:hover{
 .timeline-transaction-region-item {
   fill:black;
   font-size: 14px;
-  cursor:pointer;
 }
+
+.timeline-transaction-g {
+   cursor:pointer;
+}
+
+
 
 
