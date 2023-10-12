@@ -162,7 +162,6 @@ input[type=submit]:hover{
 
 
 .timeline-transaction-region {
-  fill:white;
   stroke-width:1;
   stroke:black;
 }
@@ -175,6 +174,12 @@ input[type=submit]:hover{
 .timeline-transaction-g {
    cursor:pointer;
 }
+
+.timeline-transaction-g-not-allowed {
+   cursor:not-allowed;
+}
+
+
 
 
 
