@@ -223,5 +223,10 @@ input[type=submit]:hover{
   font-size:20px;  
 }
 
+.gap-selected {
+  fill:white;stroke-width:2;stroke:black;
+}
+
+
 
 
