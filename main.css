@@ -211,7 +211,15 @@ input[type=submit]:hover{
   height:130px
 }
 
+.wallet-text{
+  position:absolute;
+  left:0;
+}
 
+.wallet-amount{
+  position:relative;
+  left:100px;
+}
 
 
 
