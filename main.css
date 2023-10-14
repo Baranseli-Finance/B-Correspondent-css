@@ -198,6 +198,13 @@ input[type=submit]:hover{
   background-color:white;
 }
 
+.timeline-container{
+  position:absolute;
+  left: 10%;
+  top:100px;
+}
+
+
 
 
 
