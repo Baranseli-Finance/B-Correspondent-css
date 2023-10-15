@@ -235,3 +235,16 @@ input[type=submit]:hover{
   cursor:pointer;
 }
 
+.history-selectors{
+  position:absolute;
+  left:40%;
+  top:50px;
+  width:500px;
+}
+
+.history-timeline{
+  position:absolute;
+  left:10%;
+  top:100px;
+}
+
