@@ -237,9 +237,10 @@ input[type=submit]:hover{
 
 .history-selectors{
   position:absolute;
-  left:40%;
+  left:45%;
   top:50px;
   width:500px;
+  display: flex;
 }
 
 .history-timeline{
