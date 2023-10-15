@@ -244,8 +244,10 @@ input[type=submit]:hover{
 }
 
 .history-timeline{
-  position:absolute;
-  left:10%;
   top:100px;
+  margin: 0 auto;
+  position: relative;
+  height: 1000px;
 }
+
 
