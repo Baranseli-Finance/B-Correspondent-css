@@ -349,7 +349,7 @@ input[type=submit]:hover{
   100% { transform: rotate(0); }
 }
 
-.wallet-container {
+.wallet-menu-container {
   position:absolute;
   left:50%;
   top:100px;
