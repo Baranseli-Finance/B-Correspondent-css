@@ -362,4 +362,13 @@ input[type=submit]:hover{
   padding-left:10px; 
 }
 
+.wallet-menu-container-body {
+  position:absolute;
+  width:1100px;
+  height:800px;
+  top:200px;
+  left:22%
+}
+
+
 
