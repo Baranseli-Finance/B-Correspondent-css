@@ -116,7 +116,7 @@ body {
   left: 0;
   background-color:black;
   height: 5vh;
-  width: 2.5vw;
+  width: 50px;
 }
 
 .workspace-menu {
@@ -124,7 +124,7 @@ body {
   left: 0;
   background-color:black;
   height: 95vh;
-  width: 2.5vw;
+  width: 50px;
 }
 
 .ul-menu {
