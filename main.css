@@ -42,7 +42,8 @@ body {
 /* notification  */
 
 .alert {
-  font-size: 16px;
+ font-size: 20px;
+  width:100vw;
 }
 
 .alert-danger {
