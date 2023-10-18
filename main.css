@@ -372,6 +372,8 @@ input[type=submit]:hover{
 }
 
 .withdraw-all {
+  display: inline-block;
+  width:40px;
   cursor:pointer;
   font-size:20px;
 }
