@@ -371,5 +371,17 @@ input[type=submit]:hover{
   left:22%
 }
 
+.withdraw-all {
+  cursor:pointer;
+  font-size:20px;
+}
+
+.withdraw-all:hover {
+  cursor:pointer;
+  font-size:20px;
+  background-color:black;
+  color:white;
+}
+
 
 
