@@ -221,7 +221,10 @@ input[type=submit]:hover{
 .wallet-amount{
   position:relative;
   left:100px;
-  font-size:20px;  
+  font-size:20px;
+  display:inline-block;
+  width:150px;
+  text-align:right;
 }
 
 .gap-selected {
