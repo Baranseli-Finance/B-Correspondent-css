@@ -452,6 +452,8 @@ input[type=submit]:hover{
   height:700px;
   width:500px;
   z-index:9999;
+  border: 1px solid;
+  background-color:white;
 }
 
 
