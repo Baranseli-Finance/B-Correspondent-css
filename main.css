@@ -444,6 +444,17 @@ input[type=submit]:hover{
   color:black
 }
 
+.notification {
+  position:absolute;
+  top:80px;
+  right:80px;
+  overflow-y: scroll;
+  height:700px;
+  width:500px;
+  z-index:9999;
+}
+
+
 
 
 
