@@ -395,8 +395,9 @@ input[type=submit]:hover{
 .withdraw-history-container-item {
   padding-right:20px;
   padding-left:20px;
-   display:inline-block;
+  display:inline-block;
   text-align:left;
+  font-size:16px;
 }
 
 .pagination-ul{
