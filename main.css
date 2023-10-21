@@ -467,7 +467,7 @@ input[type=submit]:hover{
 
 .file-container {
  cursor:pointer;
-  width:100px;
+  width:150px;
   margin: auto;
   display: block
 }
