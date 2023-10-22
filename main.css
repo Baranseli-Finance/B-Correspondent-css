@@ -201,7 +201,8 @@ input[type=submit]:hover{
 
 .timeline-container{
   position:absolute;
-  left: 10%;
+  left:5%;
+  right:5%;
   top:100px;
 }
 
