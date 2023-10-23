@@ -486,6 +486,14 @@ input[type=submit]:hover{
   
 }
 
+.book-timeline {
+  position:absolute;
+  left:100px;
+  top: 100px;
+  width:100px;
+}
+
+
 
 
 
