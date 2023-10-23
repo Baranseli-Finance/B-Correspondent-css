@@ -493,6 +493,12 @@ input[type=submit]:hover{
   width:100px;
 }
 
+.book-timeline-item {
+  padding-top:5px;
+  padding-bottom:5px;
+  border:1px solid black
+}
+    
 
 
 
