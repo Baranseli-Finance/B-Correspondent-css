@@ -134,11 +134,11 @@ body {
 }
 
 .workspace-body {
-  position: absolute;
-  left: 50px;
+/*   left: 5vw; */
   height: 95vh;
-  width: 95vw;
+  width: 100vw;
 }
+
 
 input[type=button], input[type=submit], input[type=reset] {
   border: none;
