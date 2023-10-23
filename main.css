@@ -126,6 +126,7 @@ body {
   background-color:black;
   height: 95vh;
   width: 50px;
+  z-index:9999;
 }
 
 .ul-menu {
