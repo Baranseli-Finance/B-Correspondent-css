@@ -501,6 +501,13 @@ input[type=submit]:hover{
   display:inline-block;
 }       
 
+.book-timeline-title{
+  position:absolute;
+  left:500px;
+  top: 70px;
+  font-size: 20px;
+}
+
 
 
 
