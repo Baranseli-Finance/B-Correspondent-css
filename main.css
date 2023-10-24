@@ -36,7 +36,7 @@ body {
   margin: 0 auto;
   text-align: center;
   position: relative;
-  height: 1100px;
+/*   height: 1100px; */
 }
 
 /* notification  */
@@ -136,7 +136,7 @@ body {
 
 .workspace-body {
 /*   left: 5vw; */
-  height: 95vh;
+/*   height: 95vh; */
   width: 100vw;
 }
 
