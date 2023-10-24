@@ -531,6 +531,32 @@ input[type=submit]:hover{
   }
 }
 
+.book-timeline-item-active-live {
+  border:1px solid black;
+  width:60px;
+  padding-left:20px;
+  padding-right:20px;
+  border-left:none;
+  display:inline-block;
+  cursor:pointer;
+  background-color:red;
+}
+
+.pulse-live {
+  animation: pulse-animation-live 2s infinite;
+}
+
+@keyframes pulse-animation-live {
+  0% {
+    box-shadow: 0 0 0 0px red;
+  }
+  100% {
+    box-shadow: 0 0 0 20px rgba(0, 0, 0, 0);
+  }
+}
+
+
+
 .book-container-timeline-back {
   position:absolute;
   left:100px;
