@@ -578,6 +578,12 @@ input[type=submit]:hover{
   border: 1px solid black;
 }
 
+.balanced-book-history-loading{
+  position:absolute;
+  left:48%;
+  top:50%;
+}
+
 
 
 
