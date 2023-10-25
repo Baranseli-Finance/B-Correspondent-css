@@ -557,7 +557,7 @@ input[type=submit]:hover{
 
 
 .book-container-timeline-back {
-  position:absolute;
+/*   position:absolute; */
   left:100px;
   top: 50px;
 }
