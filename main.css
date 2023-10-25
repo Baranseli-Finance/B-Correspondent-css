@@ -584,7 +584,9 @@ input[type=submit]:hover{
   top:50%;
 }
 
-
+.not-allowed {
+  cursor: not-allowed;
+}
 
 
 
