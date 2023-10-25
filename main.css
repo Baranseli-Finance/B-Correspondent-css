@@ -482,8 +482,7 @@ input[type=submit]:hover{
 }
 
 .book-container {
-  height:100%;
-  
+  height:95vh;
 }
 
 .book-timeline {
