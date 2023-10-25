@@ -597,6 +597,20 @@ input[type=submit]:hover{
 }
 
 
+.balanced-book-travel-button-previous{
+  position:absolute;
+  bottom:400px;
+  left:45%;
+  
+}
+
+.balanced-book-travel-button-next{
+  position:absolute;
+  bottom:400px;
+  left:50%;
+  
+}
+
 
 
 
