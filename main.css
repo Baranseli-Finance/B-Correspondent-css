@@ -508,7 +508,7 @@ input[type=submit]:hover{
   font-size: 20px;
 }
 
-.book-timeline-item-active {
+.book-timeline-item-past {
   border:1px solid black;
   width:60px;
   padding-left:20px;
@@ -521,6 +521,16 @@ input[type=submit]:hover{
 .pulse {
   animation: pulse-animation 2s infinite;
 }
+
+.book-timeline-item-today {
+  border:1px solid black;
+  width:60px;
+  padding-left:20px;
+  padding-right:20px;
+  border-left:none;
+  display:inline-block;
+}
+
 
 @keyframes pulse-animation {
   0% {
