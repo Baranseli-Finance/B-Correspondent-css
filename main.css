@@ -16,6 +16,7 @@ body {
   top: 0;
   width: 100%;
   z-index: 10;
+  background-color:#E5E5E5;
 }
 
 .body-container {
@@ -126,7 +127,7 @@ body {
   background-color:black;
   height: 95vh;
   width: 50px;
-  z-index:9999;
+  z-index:2;
 }
 
 .ul-menu {
