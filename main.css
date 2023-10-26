@@ -600,7 +600,7 @@ input[type=submit]:hover{
 
 .balanced-book-travel-button-previous{
   position:absolute;
-  bottom:400px;
+  bottom:300px;
   left:45%;
   cursor:pointer;
   
@@ -608,7 +608,7 @@ input[type=submit]:hover{
 
 .balanced-book-travel-button-next{
   position:absolute;
-  bottom:400px;
+  bottom:300px;
   left:50%;
   cursor:pointer;
 }
@@ -617,6 +617,18 @@ input[type=submit]:hover{
   cursor:pointer;
 }
 
+.balanced-book-wallet-text{
+  /* position:absolute;
+  left:0; */
+  font-size:20px;
+}
+
+
+.balanced-book-wallets {
+  position:absolute;
+  left:36%;
+  bottom:350px;
+}
 
 
 
