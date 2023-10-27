@@ -499,6 +499,7 @@ input[type=submit]:hover{
   position:absolute;
   top: 100px;
   width:1050px;
+  left:50px;
 }
 
 .book-timeline-item {
@@ -610,7 +611,7 @@ input[type=submit]:hover{
 .balanced-book-travel-button-previous{
   position:absolute;
   bottom:300px;
-  left:45%;
+  left:46%;
   cursor:pointer;
   
 }
@@ -618,7 +619,7 @@ input[type=submit]:hover{
 .balanced-book-travel-button-next{
   position:absolute;
   bottom:300px;
-  left:50%;
+  right:45%;
   cursor:pointer;
 }
 
@@ -635,7 +636,7 @@ input[type=submit]:hover{
 
 .balanced-book-wallets {
   position:absolute;
-  left:36%;
+  left:38%;
   bottom:350px;
 }
 
@@ -653,6 +654,11 @@ input[type=submit]:hover{
   width:1050px;
 }
 
+.balanced-book-wallets-2 {
+  position:absolute;
+  right:39%;
+  bottom:350px;
+}
 
 
 
