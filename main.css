@@ -223,10 +223,10 @@ input[type=submit]:hover{
 
 .wallet-amount{
   position:relative;
-  left:40px;
+/*   left:40px; */
   font-size:20px;
   display:inline-block;
-  width:150px;
+  width:140px;
   text-align:right;
 }
 
