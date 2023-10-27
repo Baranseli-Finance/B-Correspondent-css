@@ -660,6 +660,19 @@ input[type=submit]:hover{
   bottom:350px;
 }
 
+.balanced-book-wallet-amount-2 {
+  position:absolute;
+  right:40px;
+  font-size:20px;
+  display:inline-block;
+  width:140px;
+  text-align:left;
+}
 
+.balanced-book-wallet-text-2{
+  position:relative;
+  left:20px;
+   font-size:20px;
+}
 
 
