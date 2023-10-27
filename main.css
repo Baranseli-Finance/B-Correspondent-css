@@ -639,6 +639,20 @@ input[type=submit]:hover{
   bottom:350px;
 }
 
+.book-timeline-title-2{
+  position:absolute;
+  right:500px;
+  top: 70px;
+  font-size: 20px;
+}
+
+.book-timeline-2 {
+  position:absolute;
+  top: 100px;
+  right:0;
+  width:1050px;
+}
+
 
 
 
