@@ -611,16 +611,16 @@ input[type=submit]:hover{
 
 .balanced-book-travel-button-previous{
   position:absolute;
-  bottom:300px;
-  left:47%;
+  bottom:200px;
+  left:45%;
   cursor:pointer;
   
 }
 
 .balanced-book-travel-button-next{
   position:absolute;
-  bottom:300px;
-  right:45%;
+  bottom:200px;
+  left:52%;
   cursor:pointer;
 }
 
