@@ -469,6 +469,23 @@ input[type=submit]:hover{
   background-color:white;
 }
 
+.no-notification {
+  position:absolute;
+  top:80px;
+  right:80px;
+  /* overflow-y: auto; */
+  height:400px;
+  width:500px;
+  z-index:9999;
+  border: 1px solid;
+  background-color:white;
+  /* text-align:center; */
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+
 .issue-container {
   width:900px;
   margin: auto;
