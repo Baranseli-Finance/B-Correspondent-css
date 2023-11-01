@@ -719,3 +719,11 @@ input[type=submit]:hover{
   right:20px;
   top:15px;
 }
+
+.password-reset-container {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 10vh;
+    transform: translateY(-50%);
+}
