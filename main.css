@@ -741,3 +741,15 @@ input[type=submit]:hover{
   cursor:pointer;
 }
 
+.transaction-all-container{
+  position:absolute;
+  width:800px;
+  height:50px;
+  border:1px solid;
+  top:100px;
+  left:30%;
+  background:white;
+  z-index:999;
+  overflow-x: scroll;
+}
+
