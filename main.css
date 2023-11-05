@@ -730,3 +730,7 @@ input[type=submit]:hover{
     top: 10vh;
     transform: translateY(-50%);
 }
+
+.timeline-transaction-all-region-background
+{ cursor:pointer;
+}
