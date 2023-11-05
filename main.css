@@ -509,6 +509,8 @@ input[type=submit]:hover{
   pading-left: 10px;
   padding-rigt: 10px;
   height:50px;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .book-container {
