@@ -759,3 +759,25 @@ input[type=submit]:hover{
 }
 
 
+.transaction-all-item-info
+{
+  position:absolute;
+  width:800px;
+  border:1px solid;
+  top:135px;
+  left:30%;
+  background:white;
+  z-index:999;
+  height:0px;
+}
+
+.transform{
+  transition: height 1s ease;
+}
+
+.transform-active{
+  height:300px;
+}
+
+
+
