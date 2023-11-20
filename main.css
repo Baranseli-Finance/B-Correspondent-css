@@ -834,9 +834,9 @@ input[type=submit]:hover{
 .loader:after{
   background:
     radial-gradient(closest-side at 50% 12.5%,
-     #0000 96%,#0000) 50% 0/20% 80% repeat-y,
+     #000 96%,#0000) 50% 0/20% 80% repeat-y,
     radial-gradient(closest-side at 12.5% 50%,
-     #0000 96%,#0000) 0 50%/80% 20% repeat-x;
+     #000 96%,#0000) 0 50%/80% 20% repeat-x;
 }
 .loader:before,
 .loader:after {
