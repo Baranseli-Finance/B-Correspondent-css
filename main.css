@@ -194,7 +194,7 @@ input[type=submit]:hover{
   align-items: center;
 }
 
-.transaction-modal {
+.transaction-modal-ok {
   width:600px;
   position:inherit;
   top:20%;
@@ -202,6 +202,16 @@ input[type=submit]:hover{
   height: 600px;
   background-color:white;
 }
+
+.transaction-modal-failure {
+  width:600px;
+  position:inherit;
+  top:20%;
+  left:35%;
+  height: 300px;
+  background-color:white;
+}
+
 
 .timeline-container{
 /*   position:absolute; */
